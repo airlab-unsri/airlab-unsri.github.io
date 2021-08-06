@@ -73,7 +73,7 @@ const greenContent = function(name) {
         <p>You’ve passed the Airlab member open recruitment selection test.</p>
     </div>
     <div id="group-link">
-        <a href="">Click Here </a> 
+        <a href="https://chat.whatsapp.com/GATuXHpoZSCALURTfte7lN">Click Here </a> 
         <p> to join our whatsApp group</p>
     </div>`;
 } 
